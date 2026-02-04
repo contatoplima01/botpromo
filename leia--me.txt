@@ -1,0 +1,2 @@
+Esses são monitores de preços feito em python, pegam abas de promoções, placa de vídeo, monitor, produtos em geral.
+Crie um bot no telegram com o botfather, pegue a token e coloque em cada um, depois pegue o id do seu perfil no telegram e coloque embaixo do token, após isso só utilizar que irá enviar as promoções, mas antes mande uma mensagem qualquer para o bot pois se não ele não enviara nada.
